@@ -59,7 +59,8 @@ The model successfully predicts customer churn with good accuracy
 
 Decision Tree performed better in capturing patterns in the dataset
 
-Screenshot 2026-04-30 213830
+<img width="1470" height="816" alt="Screenshot 2026-04-30 213830" src="https://github.com/user-attachments/assets/b7cdf122-45f9-4b52-b01c-2aa0524395f6" />
+
 💡 Key Insights
 
 Customers with higher monthly charges are more likely to churn
